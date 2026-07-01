@@ -1,13 +1,13 @@
 # Python Projects
 
-## Description
+## 📖 Description
 This repository contains my Python projects.
 
-## Projects
+## 🚀 Projects
 - Arithmetic Calculator
 
-## Language
+## 💻 Language
 - Python
 
-## Author
+## 👩‍💻 Author
 Ammara Fatima
