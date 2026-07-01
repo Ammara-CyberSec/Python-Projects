@@ -1,2 +1,13 @@
-# Arithmetic_Calculation
-First _python_project
+# Python Projects
+
+## Description
+This repository contains my Python projects.
+
+## Projects
+- Arithmetic Calculator
+
+## Language
+- Python
+
+## Author
+Ammara Fatima
