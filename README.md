@@ -10,4 +10,7 @@ This repository contains my Python projects.
 - Python
 
 ## 👩‍💻 Author
-Ammara Fatima
+
+✨ **Ammara Fatima** ✨
+
+
